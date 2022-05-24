@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ejemplos3
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Flutter---First-Steps
+First steps in Flutter, Flutter is an open source framework by Google for building beautiful, natively compiled, multi-platform applications from a single codebase.
+>>>>>>> e7dde4d1722e62250a57f4659e1b73b0874b8416

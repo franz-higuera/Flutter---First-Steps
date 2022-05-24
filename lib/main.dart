@@ -85,7 +85,7 @@ class _FirstPage extends State<FirstPage> {
                     onPressed: () {
                       print("+1");
                       setState(() {
-                        if (veces < 20 && veces >= 0) {
+                        if (veces < 26 && veces >= 0) {
                           veces++;
                         }
                       });
